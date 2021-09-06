@@ -1,0 +1,129 @@
+###### Welcome to Election/Voting 2021 #####
+
+ 1. Cast the Vote
+ 2. Find Vote Count
+ 3. Find leading Candidate
+ 0. Exit
+
+ Please enter your choice : 1
+
+
+ ### Please choose your Candidate ####
+
+
+ 1. Mohit Pathru
+ 2. soniya patil
+ 3. saurabh patel
+ 4. Neha vaiknthi
+ 5. None of These
+
+ Input your choice (1 - 4) : 1
+
+ thanks for vote !!
+
+ ###### Welcome to Election/Voting 2021 #####
+
+ 1. Cast the Vote
+ 2. Find Vote Count
+ 3. Find leading Candidate
+ 0. Exit
+
+ Please enter your choice : 1
+
+
+ ### Please choose your Candidate ####
+
+
+ 1. Mohit Pathru
+ 2. soniya patil
+ 3. saurabh patel
+ 4. Neha vaiknthi
+ 5. None of These
+
+ Input your choice (1 - 4) : 2
+
+ thanks for vote !!
+
+ ###### Welcome to Election/Voting 2021 #####
+
+ 1. Cast the Vote
+ 2. Find Vote Count
+ 3. Find leading Candidate
+ 0. Exit
+
+ Please enter your choice : 1
+
+
+ ### Please choose your Candidate ####
+
+
+ 1. Mohit Pathru
+ 2. soniya patil
+ 3. saurabh patel
+ 4. Neha vaiknthi
+ 5. None of These
+
+ Input your choice (1 - 4) : 3
+
+ thanks for vote !!
+
+ ###### Welcome to Election/Voting 2021 #####
+
+ 1. Cast the Vote
+ 2. Find Vote Count
+ 3. Find leading Candidate
+ 0. Exit
+
+ Please enter your choice : 2
+
+
+ ##### Voting Statics ####
+ Mohit Pathru - 1
+ soniya patil - 1
+ saurabh patel - 1
+ Neha vaiknthi - 0
+ Spoiled Votes - 0
+
+ ###### Welcome to Election/Voting 2021 #####
+
+ 1. Cast the Vote
+ 2. Find Vote Count
+ 3. Find leading Candidate
+ 0. Exit
+
+ Please enter your choice : 1
+
+
+ ### Please choose your Candidate ####
+
+
+ 1. Mohit Pathru
+ 2. soniya patil
+ 3. saurabh patel
+ 4. Neha vaiknthi
+ 5. None of These
+
+ Input your choice (1 - 4) : 1
+
+ thanks for vote !!
+
+ ###### Welcome to Election/Voting 2021 #####
+
+ 1. Cast the Vote
+ 2. Find Vote Count
+ 3. Find leading Candidate
+ 0. Exit
+
+ Please enter your choice : 3
+
+
+  #### Leading Candiate ####
+
+[Mohit Pathru]
+
+ ###### Welcome to Election/Voting 2021 #####
+
+ 1. Cast the Vote
+ 2. Find Vote Count
+ 3. Find leading Candidate
+ 0. Exit
