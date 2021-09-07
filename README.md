@@ -1,7 +1,7 @@
 # stepin_voting_system
-|[CI_code Quality score]|[CI_code Grade]|
-|------|-----|
-|![Code Quality](https://www.code-inspector.com/project/27755/score/svg) | ![Code Grade](https://www.code-inspector.com/project/27755/status/svg)
+|[code Quality score]|[code Grade]|[CI]|
+|------|-----|------|
+|![Code Quality](https://www.code-inspector.com/project/27755/score/svg) | ![Code Grade](https://www.code-inspector.com/project/27755/status/svg) | [![CI](https://github.com/mohitraopathru/stepin_mohitrao/actions/workflows/main.yml/badge.svg)](https://github.com/mohitraopathru/stepin_mohitrao/actions/workflows/main.yml)|
 ## Folder structure:
 
 | Folder | Description |
