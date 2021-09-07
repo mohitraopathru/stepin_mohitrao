@@ -11,6 +11,17 @@
 | `3_Implement` | All code and documentation |
 | `4_TestOutputs_Plan` | Documents with test plans and procedures |
 
+## Contributors List and Summary
+
+|PS No. |  Name   |    Features    |No Test Cases|Test Case Pass|
+|:---:|:---:|:---:|:---:|:---:|
+|`99006179` | Mohitrao pathru  | Complete project   | 3   | 3     |
+
+
+## Challenges Faced and How Was It Overcome
+
+1. **Generation of makefile:** To overcome this problem research on makefiles was done.
+2. **Unity testing:** Initially a few testcases did not pass, to overcome this issue debugging of program was performed.
 
 ## Learning Resources
 1. [gcc makefile](https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html#zz-2.1)
