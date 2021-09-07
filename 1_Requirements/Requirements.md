@@ -1,7 +1,20 @@
-## Introduction: 
+# Introduction: 
 
- The word VOTE means to choose from a list, to elect or to determine. The main goal of voting is to come up with leaders of the people’s choice. 
+ The word VOTE means to choose from a list, to elect or to determine. The main goal of voting is to come up with leaders of the people’s choice. in this project user has four choice. 
+1. cast vote:- In this option user can cast vote to there favourite candidate.
+2. vote count:- In this option user can see the total vote counts of each candidate. 
+3. Leading candidate:- In this option user can see leading/ winner candidate.
+4. exite:- it will end the program.
 
+
+# Folder Structure
+|Folder        |Description |
+|-------------|-----------|
+|1.`Requirement`|System detailing requirements|
+|2.`Architeture`|Behaviour,Structure,Flowchart|
+|3.`Implementation`|All code and documentation|
+|4.`TestPlanAndOutput`|Output of Code|
+|5.`ImageOfOutput`|Screenshot of Output|
 
 # Detail requirements
 ## High Level Requirements:
