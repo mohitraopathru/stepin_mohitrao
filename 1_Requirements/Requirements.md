@@ -14,7 +14,7 @@
 |2.`Architeture`|Behaviour,Structure,Flowchart|
 |3.`Implementation`|All code and documentation|
 |4.`TestPlanAndOutput`|Output of Code|
-|5.`ImageOfOutput`|Screenshot of Output|
+
 
 # Detail requirements
 ## High Level Requirements:
