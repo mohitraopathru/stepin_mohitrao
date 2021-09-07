@@ -22,6 +22,30 @@
 |4.`TestPlanAndOutput`|Output of Code|
 
 
+# 4W&#39;s and 1&#39;H
+
+## Who:
+
+Mini voting system suitable for small group of people like class room or batch of student.
+
+## What:
+A person can vote the candidate and can see the winner candidate and vote counts of the candidate.
+
+
+## When:
+
+1. it can be use when we have to choose candidate from a small group.
+
+## Where:
+
+This project can be used for voting by students.
+
+## How:
+
+This project can give winner candidate name and count of total votes of each candidate smoothly and effortless.
+
+
+
 # Detail requirements
 ## High Level Requirements:
 
