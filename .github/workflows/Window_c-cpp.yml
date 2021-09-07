@@ -15,5 +15,5 @@ jobs:
     - uses: actions/checkout@v2
     - name: build
       run: gcc code.c main.c -o all.exe
-    - name: Run
-      run: .\all.exe
+    - name: make
+      run: -C 3_Implementation/ all
