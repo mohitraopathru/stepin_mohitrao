@@ -1,6 +1,7 @@
-# stepin_mohitrao 
-. Mini-project_voting_system
-
+# stepin_voting_system
+|[CI_code Quality score]|[CI_code Grade]|
+|------|-----|
+|![Code Quality](https://www.code-inspector.com/project/27755/score/svg) | ![Code Grade](https://www.code-inspector.com/project/27755/status/svg)
 ## Folder structure:
 
 | Folder | Description |
