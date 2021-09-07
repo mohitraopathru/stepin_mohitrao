@@ -1,7 +1,10 @@
 # stepin_voting_system
-|[code Quality score]|[code Grade]|[CI]|
-|------|-----|------|
-|![Code Quality](https://www.code-inspector.com/project/27755/score/svg) | ![Code Grade](https://www.code-inspector.com/project/27755/status/svg) | [![CI](https://github.com/mohitraopathru/stepin_mohitrao/actions/workflows/main.yml/badge.svg)](https://github.com/mohitraopathru/stepin_mohitrao/actions/workflows/main.yml)|
+|[code Quality score]|[code Grade]|[CI]|[Codacy]|
+|------|-----|------|------|
+|![Code Quality](https://www.code-inspector.com/project/27755/score/svg) | ![Code Grade](https://www.code-inspector.com/project/27755/status/svg) | [![CI](https://github.com/mohitraopathru/stepin_mohitrao/actions/workflows/main.yml/badge.svg)](https://github.com/mohitraopathru/stepin_mohitrao/actions/workflows/main.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/51634bfd73514d59960a3aed170ca58f)](https://www.codacy.com/gh/mohitraopathru/stepin_mohitrao/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mohitraopathru/stepin_mohitrao&amp;utm_campaign=Badge_Grade)
+
+
+
 ## Folder structure:
 
 | Folder | Description |
