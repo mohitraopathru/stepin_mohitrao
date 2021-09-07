@@ -1,3 +1,8 @@
+## Introduction: 
+
+ The word VOTE means to choose from a list, to elect or to determine. The main goal of voting is to come up with leaders of the people’s choice. 
+
+
 # Detail requirements
 ## High Level Requirements:
 
