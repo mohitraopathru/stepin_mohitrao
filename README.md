@@ -1,7 +1,7 @@
 # stepin_voting_system
-|[code Quality score]|[code Grade]|[c_cpp_check]|[Codacy]|[git_Inspector]
-|------|-----|------|------|-------|
-|![Code Quality](https://www.code-inspector.com/project/27755/score/svg) | ![Code Grade](https://www.code-inspector.com/project/27755/status/svg) | [![Cpp check](https://github.com/mohitraopathru/stepin_mohitrao/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/mohitraopathru/stepin_mohitrao/actions/workflows/cppcheck.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/51634bfd73514d59960a3aed170ca58f)](https://www.codacy.com/gh/mohitraopathru/stepin_mohitrao/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mohitraopathru/stepin_mohitrao&amp;utm_campaign=Badge_Grade) | [![Git Inspector](https://github.com/mohitraopathru/stepin_mohitrao/actions/workflows/Git_Inspector.yml/badge.svg)](https://github.com/mohitraopathru/stepin_mohitrao/actions/workflows/Git_Inspector.yml)
+|[code_Quality_score]|[code_Grade]|[c_cpp_check]|[Codacy]|[git_Inspector] |[Static_code_Analysis]
+|--------|-------|------|------|-------|-------|
+|![Code Quality](https://www.code-inspector.com/project/27755/score/svg) | ![Code Grade](https://www.code-inspector.com/project/27755/status/svg) | [![Cpp check](https://github.com/mohitraopathru/stepin_mohitrao/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/mohitraopathru/stepin_mohitrao/actions/workflows/cppcheck.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/51634bfd73514d59960a3aed170ca58f)](https://www.codacy.com/gh/mohitraopathru/stepin_mohitrao/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mohitraopathru/stepin_mohitrao&amp;utm_campaign=Badge_Grade) | [![Git Inspector](https://github.com/mohitraopathru/stepin_mohitrao/actions/workflows/Git_Inspector.yml/badge.svg)](https://github.com/mohitraopathru/stepin_mohitrao/actions/workflows/Git_Inspector.yml) | [![Static Code Analysis](https://github.com/mohitraopathru/stepin_mohitrao/actions/workflows/static.yml/badge.svg)](https://github.com/mohitraopathru/stepin_mohitrao/actions/workflows/static.yml)|
 
 
 
